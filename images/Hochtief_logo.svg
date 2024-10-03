@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 222" width="1000" height="271">
+	<title>Hochtief-Logo-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #71767d;stroke-miterlimit:3.86400008;stroke-width: 4.5 } 
+		.s1 { fill: #71767d } 
+	</style>
+	<g id="layer1">
+		<g id="g4646">
+			<path id="path146" fill-rule="evenodd" class="s0" d="m11.1 11.1h797.5m-797.5 199.2h797.5"/>
+			<path id="path148" class="s1" d="m11.2 36h74.8v14l-66 76h44l22-27.1 22.1 27.1h43.9l-66-76v-14h74.6v149.4l-72.6-0.4v-24h63v-29h-42v7h-46v-7h-43v29h68v24l-76.8 0.4z"/>
+			<path id="path168" class="s1" d="m210.4 185.5h19.3v-38h35.6v38h19.3v-87.9h-19.3v33.7h-35.6v-33.7h-19.3z"/>
+			<path id="path154" fill-rule="evenodd" class="s1" d="m334.8 95.4c27.2 0 43.2 20.3 43.2 46.4 0 25.4-16 45.7-43.2 45.7-27.2 0-43.2-20.3-43.2-45.7 0-26.1 16-46.4 43.2-46.4zm0 75.8c17.3 0 23.8-14.7 23.8-29.4 0-15.4-6.5-30.2-23.8-30.2-17.4 0-23.9 14.8-23.9 30.2 0 14.7 6.5 29.4 23.9 29.4z"/>
+			<path id="path156" fill-rule="evenodd" class="s1" d="m464.7 127c-2.4-20.3-18.6-31.6-37.9-31.6-27.2 0-43.2 20.3-43.2 46.4 0 25.4 16 45.7 43.2 45.7 21.5 0 36.7-14.1 38.6-36h-18.7c-1.5 11.6-8.1 19.7-19.9 19.7-17.4 0-23.9-14.7-23.9-29.4 0-15.4 6.5-30.2 23.9-30.2 9.6 0 17.9 6.7 19.2 15.4z"/>
+			<path id="path158" fill-rule="evenodd" class="s1" d="m472.4 185.4h19.3v-37.9h35.6v37.9h19.3v-87.9h-19.3v33.7h-35.6v-33.7h-19.3z"/>
+			<path id="path160" fill-rule="evenodd" class="s1" d="m580.5 185.4h19.4v-71.7h26.3v-16.2h-72v16.2h26.3z"/>
+			<path id="path162" fill-rule="evenodd" class="s1" d="m633.8 185.4h19.3v-87.9h-19.3z"/>
+			<path id="path164" fill-rule="evenodd" class="s1" d="m668.8 185.4h66.7v-16.3h-47.3v-21.5h42.6v-15h-42.6v-18.9h46.4v-16.2h-65.8z"/>
+			<path id="path166" class="s1" d="m746.3 185.4h19.3v-36.3h36.9v-15.1h-36.9v-20.3h42.6v-16.2h-61.9z"/>
+		</g>
+	</g>
+</svg>
